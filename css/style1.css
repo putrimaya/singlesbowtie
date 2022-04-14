@@ -1,0 +1,375 @@
+body{
+	margin:0px;
+	padding:0px;	
+	background-repeat: repeat-x;
+	background-position:top;
+	}
+#containers{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	background-repeat:no-repeat;
+	background-position:center center;
+	}
+.container{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:1083px;
+	height:auto; 
+	}
+.top{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:133px;
+	float:left; 
+	}
+.logo{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	
+	height:auto;
+	float:left;  
+	}	
+.member{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	width:479px;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+.logoright{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:281px;
+	height:auto;
+	float:left; 
+	}
+.memberidm{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:281px;
+	height:auto;
+	float:left; 
+	}
+.memberidm1{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	width:281px;
+	height:auto;
+	float:left; 
+	}
+.memberid{
+	margin:0px ;
+	padding:0px;
+	width:115px;
+	height:auto;
+	float:left; 
+	}
+.memberid1{
+	margin:0px 10px 0px 10px;
+	padding:0px;
+	width:120px;
+	height:auto;
+	float:left; 
+	}
+.go{
+	margin:15px 0px 0px 0px;
+	padding:0px;
+	width:26px;
+	height:auto;
+	float:left; 
+	}
+.texttop{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#3d3d3d;
+	text-decoration:none;  
+	}
+.textboxtop{
+	font-family: 'Montserrat', sans-serif;
+	font-size:12px; 
+	color:#232323;
+	text-decoration:none;
+	width:100%;
+	height:20px;
+	border:#cccccc 1px solid;
+	}
+.toplink{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#c4573c;
+	text-decoration:none; 
+	}	
+.toplink a:visited{  
+	color:#c4573c;
+	text-decoration:none; 
+	}	
+.toplink a:hover{  
+	color:#ed2122;
+	text-decoration:none; 
+	}
+.signupm{
+	margin:0% 0px 0px 0%;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	height:454px;
+	}
+.signup{
+	margin:3% 0px 43px 74%;
+	padding:0px;
+	width:281px;
+	height:auto;
+	float:left;
+	}		
+.namem{
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	width:281px;
+	height:auto;
+	float:left;
+	}	
+.nameleft{
+	margin:0px;
+	padding:0px;
+	width:35%;
+	height:auto;
+	float:left;
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#3d3d3d;
+	text-decoration:none; 
+	}	
+.nameright{
+	margin:0px;
+	padding:0px;
+	width:65%;
+	height:auto;
+	float:left;
+	}
+.textbox{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#232323;
+	text-decoration:none;
+	width:180px;
+	height:25px;
+	border:#cccccc 1px solid;
+	}	
+.textbox1{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#232323;
+	text-decoration:none;
+	width:55px;
+	height:25px;
+	border:#cccccc 1px solid;
+	}		
+.middle{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:274px;
+	border:none;
+	background-image: url(../images/welbg.png);
+	background-repeat: repeat-x;
+	background-position:top;
+	float:left;
+	background-color:#992205;
+	}
+.middelm{
+	margin:0px;
+	padding:5px 0px 5px 0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+.welcome{
+	margin:0px;
+	padding:0px;
+	width:440px;
+	height:auto;
+	float:left; 
+	}
+.welcenter{
+	margin:0px 35px 0px 55px;
+	padding:0px;
+	width:270px;
+	height:auto;
+	float:left; 
+	}
+.centerm{
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	width:270px;
+	height:auto;
+	float:left; 
+	}
+.centerleft{
+	margin:0px;
+	padding:0px;
+	width:10%;
+	height:auto;
+	float:left; 
+	}
+.centerright{
+	margin:0px;
+	padding:0px;
+	width:90%;
+	height:auto;
+	float:left;
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#fff;
+	text-decoration:none; 
+	}
+.welright{
+	margin:0px;
+	padding:0px 0px 10px 0px;
+	width:281px;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+.latest1{
+	margin:0px;
+	padding:0px 0px 10px 0px;
+	width:93px;
+	height:auto;
+	float:left; 
+	}
+.text{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#3d3d3d;
+	text-decoration:none; 
+	}	
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px; 
+	color:#fff;
+	text-decoration:none; 
+	}
+.textwhite{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#fff;
+	text-decoration:none; 
+	}
+.Head{
+	font-family: 'Montserrat', sans-serif;
+	font-size:21px; 
+	color:#fff;
+	text-decoration:none; 
+	}	
+.footer{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:92px;
+	float:left;
+	background-image: url(../images/foterbg.png);
+	background-position:center;
+	background-repeat: repeat-x;
+	background-color:#2b0800;
+	}
+.foterm{
+	margin:20px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}
+.footerleft{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	width:475px;
+	height:auto;
+	float:left;  
+	}
+.footercenter{
+	margin:195px 0px 0px 430px;
+	padding:0px;
+	width:256px;
+	height:auto;
+	float:left;
+	text-align:center;
+	position:absolute;  
+	}
+.footerright{
+	margin:0px 0px 0px 25%;
+	padding:0px;
+	width:320px;
+	height:auto;
+	float:left;  
+	}
+.linkbot{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#ffa18a;
+	text-decoration:none;  
+	}	
+.linkbot a:visited{  
+	color:#ffa18a;
+	text-decoration:none; 
+	}	
+.linkbot a:hover{  
+	color:#fff;
+	text-decoration:none; 
+	}
+.copyright{
+	font-family: 'Montserrat', sans-serif;
+	font-size:13px; 
+	color:#8a8a8a;
+	text-decoration:none; 
+	}
+
+    #wld_badge_wrapp2er { border:none; width: 300px; overflow: hidden; margin:0px; }
+    #wld_badge_inner { padding: 5px 0 5px 5px;}
+    .wld_badge_item { float: left; margin: 0 10px 0 0; padding: 0; }
+    .wld_badge_item img { border:#ffffff 6px solid; padding:0px; width:73px; height:73px; }
+    .wld_badge_item_detail { margin-top: 0px; font-family: 'Montserrat', sans-serif; font-size:0px; color:#000; overflow: hidden; text-align:center; padding-top:7px; display:block;  font-weight:bold; }
+    .wld_badge_clear { clear: both; }
+
+.popup_block {
+    background: #afafaf;
+    padding: 10px 20px;
+    border: 10px solid #cd5a73;
+	border-radius:5px;
+    width: 480px;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    margin: 0 0 0 -250px;
+    z-index: 100;
+	text-align:center;
+
+}
+.popup_block img{
+	margin:0;
+	padding:0;
+}
+.popup_block .popup {
+    float: left;
+    width: 100%;
+    background: #afafaf;
+    margin: 10px 0;
+    padding: 10px 0;
+	border-radius:5px;
+	text-align:center;
+
+}
+.popup p {
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+.popup img.cntrl {
+    position: absolute;
+    right: -20px;
+    top: -20px;
+}

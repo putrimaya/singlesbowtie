@@ -1,0 +1,488 @@
+@media screen and (max-width: 1280px) {}
+@media screen and (min-width:1025px) and (max-width: 1280px) {
+#containers{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	float:left;
+	}
+.container{
+	margin:0 auto 0 auto;
+	padding:0px;
+	max-width:100%;
+	}
+.containerm{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:883px;
+	height:auto;
+	}
+#top{
+	margin:0px;
+	padding:60px 0px 30px 0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#middel{
+	margin:180px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#middelbot{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middelbot ul{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}	
+#middelbot ul li{
+	margin:0px;
+	padding:0px;
+	width:50%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	text-align:center;  
+	}		
+#joinnow{
+	margin:0px 0px 20px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	background-image:url(../images/line.png);
+	background-repeat:no-repeat;
+	background-position:center;  
+	}
+#footer{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#footertop{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}
+#social{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:140px;
+	height:auto; 
+	}
+#social ul{
+	margin:0px 0px 6px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	}
+#social ul li{
+	margin:0px;
+	padding:0px;
+	width:33%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	}
+#footerbot{
+	margin:0px 0px 25px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	font-family:'Lato-Regular';
+	font-size:10px;
+	color:#cacaca;
+	text-decoration:none;
+	letter-spacing:0.5px;
+	text-transform:uppercase; 
+	}
+}
+@media screen and (max-width: 1024px) {
+#containers{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	float:left;
+	background-image: url(../images/bg.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center top;
+	}
+.container{
+	margin:0 auto 0 auto;
+	padding:0px;
+	max-width:100%;
+	}
+.containerm{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:100%;
+	height:auto;
+	}
+#top{
+	margin:0px;
+	padding:20px 0px 50px 0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middel{
+	margin:180px 2% 0px 2%;
+	padding:0px;
+	width:96%;
+	height:auto;
+	float:left; 
+	}
+#middel img{ 
+	width:100%;
+	height:auto;  
+	}
+#middelbot{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middelbot ul{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}	
+#middelbot ul li{
+	margin:0px;
+	padding:0px;
+	width:50%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	text-align:center;  
+	}		
+#joinnow{
+	margin:0px 0px 20px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	background-image:url(../images/line.png);
+	background-repeat:no-repeat;
+	background-position:center;  
+	}
+#footer{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#footertop{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}
+#social{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:140px;
+	height:auto; 
+	}
+#social ul{
+	margin:0px 0px 6px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	}
+#social ul li{
+	margin:0px;
+	padding:0px;
+	width:33%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	}
+#footerbot{
+	margin:0px 0px 25px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	font-family:'Lato-Regular';
+	font-size:10px;
+	color:#cacaca;
+	text-decoration:none;
+	letter-spacing:0.5px;
+	text-transform:uppercase; 
+	}
+ }
+@media screen and (max-width: 767px) {
+ #containers{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	float:left; 
+	}
+.container{
+	margin:0 auto 0 auto;
+	padding:0px;
+	max-width:100%;
+	}
+.containerm{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:100%;
+	height:auto;
+	}
+#top{
+	margin:0px;
+	padding:20px 0px 50px 0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middel{
+	margin:80px 2% 0px 2%;
+	padding:0px;
+	width:96%;
+	height:auto;
+	float:left; 
+	}
+#middel img{ 
+	width:100%;
+	height:auto;  
+	}
+#middelbot{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middelbot ul{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}	
+#middelbot ul li{
+	margin:0px;
+	padding:0px;
+	width:50%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	text-align:center;  
+	}		
+#joinnow{
+	margin:0px 0px 20px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	background-image:url(../images/line.png);
+	background-repeat:no-repeat;
+	background-position:center;  
+	}
+#footer{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#footertop{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}
+#social{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:140px;
+	height:auto; 
+	}
+#social ul{
+	margin:0px 0px 6px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	}
+#social ul li{
+	margin:0px;
+	padding:0px;
+	width:33%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	}
+#footerbot{
+	margin:0px 0px 25px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	font-family:'Lato-Regular';
+	font-size:10px;
+	color:#cacaca;
+	text-decoration:none;
+	letter-spacing:0.5px;
+	text-transform:uppercase; 
+	}
+}
+@media screen and (max-width: 519px) {
+#containers{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	float:left;  
+	}
+.container{
+	margin:0 auto 0 auto;
+	padding:0px;
+	max-width:100%;
+ 	}
+.containerm{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:100%;
+	height:auto;
+	}
+#top{
+	margin:0px;
+	padding:20px 0px 50px 0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middel{
+	margin:20px 2% 0px 2%;
+	padding:0px;
+	width:96%;
+	height:auto;
+	float:left; 
+	}
+#middel img{ 
+	width:100%;
+	height:auto;  
+	}
+#middelbot{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center; 
+	}
+#middelbot ul{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}	
+#middelbot ul li{
+	margin:0px 0px 12px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	text-align:center;  
+	}		
+#joinnow{
+	margin:0px 0px 20px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	background-image:url(../images/line.png);
+	background-repeat:no-repeat;
+	background-position:center;  
+	}
+#footer{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left; 
+	}
+#footertop{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;  
+	}
+#social{
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:140px;
+	height:auto; 
+	}
+#social ul{
+	margin:0px 0px 6px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	}
+#social ul li{
+	margin:0px;
+	padding:0px;
+	width:33%;
+	height:auto;
+	float:left;
+	list-style-type:none;
+	}
+#footerbot{
+	margin:0px 0px 25px 0px;
+	padding:0px;
+	width:100%;
+	height:auto;
+	float:left;
+	text-align:center;
+	font-family:'Lato-Regular';
+	font-size:10px;
+	color:#cacaca;
+	text-decoration:none;
+	letter-spacing:0.5px;
+	text-transform:uppercase; 
+	}
+}
